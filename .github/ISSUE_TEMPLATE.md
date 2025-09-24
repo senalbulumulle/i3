@@ -9,6 +9,7 @@ Check one of the following options with "x".
 Please note that at this point we focus on maintaining i3 and fixing bugs, and will rarely consider features which require further configuration or significant complexity.
 In such cases you should consider and present specific benefits derived from adding this feature such that it can be weighed against the cost of additional complexity and maintenance.
 -->
+
 <pre>
 [ ] Bug
 [ ] Feature Request
